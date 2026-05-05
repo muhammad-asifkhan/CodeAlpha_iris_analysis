@@ -163,5 +163,5 @@ print(pred[0])   # → Iris-setosa
 
 ## Author
 
-**Mudassir** — CodeAlpha Data Science Intern  
+**Muhammad Asif Khan** — CodeAlpha Data Science Intern  
 [GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
